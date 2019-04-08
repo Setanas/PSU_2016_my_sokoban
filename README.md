@@ -40,7 +40,7 @@ $> make
 
 At the end you should have a "my_sokoban" binary in your current folder.
 
-## Creating your own tetromino
+## Creating your own map
 
 You can create your own map by adding a file in the folder "maps".<br/>
 You can name it as you want<br/>
@@ -79,7 +79,7 @@ Replace {map_path} by the path of the map
 
 If you want to usage:
 ```
-$> ./tetris -h
+$> ./my_sokoban -h
 USAGE
 	   ./my_sokoban map
 
